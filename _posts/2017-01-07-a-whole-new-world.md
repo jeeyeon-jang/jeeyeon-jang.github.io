@@ -12,7 +12,7 @@ published: true
 
 때문에 기억을 더듬어 다양한 방법을 시도해보고 있다.
 
-## Github에서 직접 파일 수정
+### Github에서 직접 파일 수정
 
 github의 editor가 이상한지 한글을 입력하다가 다른 ascii 문자를 입력하면 입력한 한글이 모두 사라지는 문제가 있다. 내부적으로 codemirror를 쓰고 있기에 이 쪽의 문제인가 싶어 해당 페이지의 예제를 사용해보니 거기서는 또 한글 입력에 문제가 없다. 즉, github에 연결된 무언가의 설정으로 인해 발생한다는 문제인데...
 
@@ -20,7 +20,7 @@ chrome, ff, ie 모두에서 발생하니 이건 browser 문제도 아니고. gis
 
 메모장이나 다른 편집기에서 markdown 작성 후 붙여넣기로 파일을 생성할게 아니라면 이 방법은 일단 무리.
 
-## markdownpad + sourcetree
+### markdownpad + sourcetree
 
 초반엔 나도 markdownpad로 글을 좀 정리했던 터라 그 툴이 있으면 그래도 보다 익숙하게 글을 작성할 수 있지 않을까 하는 기대감이 있었다. 그래서 그걸 오랜만에 찾아서 설치했는데, 돌아오는 화면은 awesomium crash..!
 
@@ -28,7 +28,7 @@ chrome, ff, ie 모두에서 발생하니 이건 browser 문제도 아니고. gis
 
 이렇게 작성한 파일을 github에 올리기 위해 commit & push 과정을 설명해야 한다니. 일단 sourcetree같이 ui를 쓰면 좀 쉬울까 싶어서 깔아봤는데 차라리 git client가 더 쉽지 않을까- 하는 생각이 들 정도다. 그래서 이 방법도 무리.
 
-## prose.io
+### prose.io
 
 다급한 마음에 github page simple editor라고 구글 검색을 했더니 뭔가가 나온다. prose.io라는건데 이 쪽으로 꽤나 잘 도움을 줄 수 있는 것 같다. 이 글도 시험삼아 거기서 작성하는건데 편집기가 꽤 깔끔해서 쓸만하지 않을까 하는 생각이 든다.
 
