@@ -4,13 +4,29 @@
  <title>lacti</title>
  <link href="http://grazioso.me/atom.xml" rel="self"/>
  <link href="http://grazioso.me/"/>
- <updated>2017-03-27T14:42:06+00:00</updated>
+ <updated>2017-03-27T14:49:18+00:00</updated>
  <id>http://grazioso.me/</id>
  <author>
    <name>jeeyeon-jang</name>
    <email>graziosojy@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Failure</title>
+   <link href="http://grazioso.me/2017/03/27/failure/"/>
+   <updated>2017-03-27T00:00:00+00:00</updated>
+   <id>http://grazioso.me/2017/03/27/failure</id>
+   <content type="html">&lt;h3&gt;failure, 그것은 망했다는 뜻&lt;/h3&gt;
+
+&lt;p&gt;이렇게까지 사람을 괴롭힐 수 있을까?
+정녕 이것은 컴퓨터로만 작성해야 한다는 말인가? 그래야 한단 말인가?&lt;/p&gt;
+
+&lt;p&gt;제발 살려줘&lt;/p&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>A whole new world</title>
