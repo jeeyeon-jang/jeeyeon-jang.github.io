@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A whole new world
+title: A whole new world 
 tags: 일상
 ---
 
