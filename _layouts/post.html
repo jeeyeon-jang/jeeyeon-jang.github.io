@@ -1,0 +1,47 @@
+---
+layout: default
+---
+		<div class="pure-g">
+			<div class="pure-u-1">
+				<h1 class="page-title">{{ page.title }}</h1>
+				<p class="page-date">{{ page.date | date_to_string }}</p>
+				<p class="page-tags">
+				{% for tag in page.tags %}
+				{% if tag != '-pub' %}
+					<code class="tag"><a href="/tags/#{{tag }}">{{ tag }}</a></code>
+				{% endif %}
+				{% endfor %}
+				</p>
+				
+				<div class="content">
+				{{ content }}
+				</div>
+
+				<div class="pure-g page-navigator">
+					<div class="pure-u-1-2">
+					{% if page.previous.url %}
+						<a href="{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; {{ page.previous.title }}</a>
+					{% endif %}
+					</div>
+					<div class="pure-u-1-2 text-right">
+					{% if page.next.url %}
+						<a href="{{ page.next.url }}" title="{{ page.next.title }}">&raquo; {{ page.next.title }}</a>
+					{% endif %}
+					</div>
+				</div>
+
+				<!-- the comments -->
+				<div id="disqus_container">
+					<div id="disqus_thread"></div>
+					<script type="text/javascript">
+						(function() {
+						var d = document, s = d.createElement('script');
+						s.src = 'https://jys-lisabo.disqus.com/embed.js';
+						s.setAttribute('data-timestamp', +new Date());
+						(d.head || d.body).appendChild(s);
+						})();
+					</script>
+					<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+				</div>
+			</div>
+		</div>

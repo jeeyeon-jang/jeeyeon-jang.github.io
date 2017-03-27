@@ -1,0 +1,3 @@
+Sitemap: http://grazioso.me/sitemap.xml
+User-agent: *
+Allow: /

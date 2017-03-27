@@ -1,0 +1,26 @@
+url: http://grazioso.me
+username: jeeyeon-jang
+repo: jeeyeon-jang.github.io
+branch: source
+relative_source: .
+destination: ../site-deploy/
+
+permalink: pretty
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - fenced_code_blocks
+    - autolink
+    - strikethrough
+    - superscript
+    - tables
+
+exclude:
+  - Rakefile.rb
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .travis.yml
+  - vendor
