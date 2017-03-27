@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>lacti</title>
+ <link href="http://grazioso.me/atom.xml" rel="self"/>
+ <link href="http://grazioso.me/"/>
+ <updated>2017-03-27T13:07:59+00:00</updated>
+ <id>http://grazioso.me/</id>
+ <author>
+   <name>jeeyeon-jang</name>
+   <email>graziosojy@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>A whole new world</title>
+   <link href="http://grazioso.me/2017/01/07/a-whole-new-world/"/>
+   <updated>2017-01-07T00:00:00+00:00</updated>
+   <id>http://grazioso.me/2017/01/07/a-whole-new-world</id>
+   <content type="html">&lt;p&gt;완전한 새로운 시작.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
