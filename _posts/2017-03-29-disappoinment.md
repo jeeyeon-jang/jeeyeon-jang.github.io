@@ -1,6 +1,6 @@
 ---
 published: true
-tags: 퇴사일기 일상
+tags: 퇴사일기 일상 되어랏
 ---
 ## Preview
 
