@@ -1,6 +1,7 @@
 ---
 published: true
 tags: 퇴사일기 일상
+layout: post
 ---
 ## Preview
 
