@@ -2,8 +2,9 @@
 published: true
 tags: 퇴사일기
 layout: post
+title: 'Preview'
 ---
-### Preview
+### Failure
 
 실패했다
 
