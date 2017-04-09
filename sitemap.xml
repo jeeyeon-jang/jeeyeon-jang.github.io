@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://grazioso.me/</loc>
-		<lastmod>2017-04-04</lastmod>
+		<lastmod>2017-04-09</lastmod>
+	</url>
+	
+	<url>
+		<loc>http://grazioso.me/2017/04/09/application/</loc>
+		<lastmod>2017-04-09</lastmod>
 	</url>
 	
 	<url>
